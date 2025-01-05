@@ -91,6 +91,6 @@ the latest fake news detection project that uses OpenAI technology to detect the
 |   |- login.py        # login 기능
 ```
 ## 세부 진행 과정
-[Alpha 프로젝트 보고서](https://github.com/hyeonsang010716/fake-news-detection/docs/alpha_project.pdf)
+[Alpha 프로젝트 보고서](https://github.com/hyeonsang010716/fake-news-detection/blob/main/docs/alpha_project.pdf)
 ## 프로젝트 라이선스
 이 프로젝트는 MIT License를 따르며 누구나 자유롭게 사용, 수정, 배포할 수 있습니다.
